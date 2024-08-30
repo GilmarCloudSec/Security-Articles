@@ -1,4 +1,4 @@
-SSL/TLS provides three core security properties: **confidentiality**, **integrity**, and **authentication**.
+SSL/TLS provides three core security properties: **Confidentiality**, **Integrity**, and **Authentication**.
 
 ### 1. **Confidentiality**
 
